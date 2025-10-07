@@ -1,15 +1,15 @@
 # 👋🏻 Hi there!
 👋 I'm Oliver (he/him) 🌈  
-🧑🏻‍💻 I'm a sysadmin and open-source enthusiast
+🧑🏻‍💻 I'm a IT Systems Engineer and open-source enthusiast
 
-Whether it's during my day job, at Chaos Computer Club events, or running [my own Autonomous System](https://dn42.bluemedia.dev) in the [DN42 network](https://dn42.dev/Home) – I'm always deep in tech. 🧠💻 Driven by curiosity, I love exploring new tools, systems, and ideas.
+Whether it's during my day job, at Chaos Computer Club events, or running [my own Autonomous System](https://dn42.bluemedia.dev) in the [DN42 network](https://dn42.dev/Home) – I'm always deep in tech. Driven by curiosity, I love exploring new tools, systems, and ideas.
 
 My focus areas include:  
-🔧 Automation  
-🌐 Scalable infrastructure  
-🧪 Self-hosting & experimental networks
+- Automation  
+- Scalable infrastructure  
+- Self-hosting & experimental networks
 
-I enjoy building useful things – both for myself and for the wider community. That might be a personal (not so small) side project 🚀 or a contribution to something bigger 🤝.
+I enjoy building useful things – both for myself and for the wider community. That might be a personal (not so small) side project or a contribution to something bigger.
 
 Let’s build something awesome together.
 
@@ -29,11 +29,6 @@ Let’s build something awesome together.
 
 ## 📊 Facts, facts, more facts!
 ![](https://github-readme-stats.vercel.app/api?username=BluemediaDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BluemediaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BluemediaDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📨 Contact me!
 You can find me on many social media platforms. I have summarized most of the links on my [overview page](https://bluemedia.dev/social). Feel free to contact me if you want to tell me something or just talk about cool tech!
